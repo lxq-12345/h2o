@@ -1,0 +1,19 @@
+# --- local / temp ---
+bk/
+data/
+proj/log/
+
+# --- outputs ---
+proj/app/out/
+proj/out/
+
+# --- models ---
+proj/models/
+
+# --- samples (training/test) ---
+proj/sample/
+
+# --- python cache ---
+__pycache__/
+proj/src/__pycache__/
+*.pyc
